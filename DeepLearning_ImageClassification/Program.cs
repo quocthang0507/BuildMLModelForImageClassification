@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.IO;
-using Microsoft.ML;
-using static Microsoft.ML.DataOperationsCatalog;
+﻿using Microsoft.ML;
 using Microsoft.ML.Vision;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using static Microsoft.ML.DataOperationsCatalog;
 
 namespace DeepLearning_ImageClassification
 {
